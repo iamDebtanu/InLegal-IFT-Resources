@@ -6,8 +6,8 @@ This repository contains the resources for building an instruction fine-tuned la
 
 ### Research Papers
 
-1. **LawInstruct** - [LawInstruct: Large Language Models for Legal Instructions](https://arxiv.org/pdf/2404.02127)
-2. **IFT in BERT** - [Instruction Fine-Tuning in BERT](https://arxiv.org/pdf/2502.03793)
+1. **LawInstruct** - [LawInstruct dataset](https://arxiv.org/pdf/2404.02127)
+2. **IFT in BERT** - [Instruction Fine-Tuning using modernBERT](https://arxiv.org/pdf/2502.03793)
 3. **Framework for Adapting General LLM to Domain** - [A Framework for Adapting General LLMs to Specific Domains](https://arxiv.org/pdf/2501.04961)
 4. **Tulu 3** - [Tulu 3: Advances in Multilingual Language Models](https://arxiv.org/abs/2411.15124)
 
