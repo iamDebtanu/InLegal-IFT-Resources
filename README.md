@@ -6,15 +6,18 @@ This repository contains the resources for building an instruction fine-tuned la
 
 ### Research Papers
 
+#### Legal domain specific
 1. **LawInstruct** - [LawInstruct paper and FLawN-T5](https://arxiv.org/pdf/2404.02127)
 2. **Aalap Model** - [AI Assistant for Legal & Paralegal Functions in India](https://arxiv.org/abs/2402.01758)
-3. **IFT in BERT** - [Instruction Fine-Tuning using modernBERT](https://arxiv.org/pdf/2502.03793)
-4. **Framework for Adapting General LLM to Finance Domain** - [Domain-adaptive Post-training for Financial LLMs](https://arxiv.org/pdf/2501.04961)
-5. **Tulu 3** - [Tulu 3: Pushing Frontiers in Open Language Model Post-Training](https://arxiv.org/abs/2411.15124)
-6. **Pile of Law** - [256GB Open-Source Legal Dataset](https://arxiv.org/pdf/2207.00220)
-7. **How Useful is CPT** - [How Useful is Continued Pre-Training](https://aclanthology.org/2024.repl4nlp-1.9.pdf)
-8. **CPT of LLMs** - [Continual Pre-Training of Large Language Models](https://arxiv.org/pdf/2308.04014)
-9. **Instruct-SkillMix** - [Pipeline for LLM Instruction Tuning](https://arxiv.org/pdf/2408.14774)
+3. **Pile of Law** - [256GB Open-Source Legal Dataset](https://arxiv.org/pdf/2207.00220)
+
+#### Other works
+5. **IFT in BERT** - [Instruction Fine-Tuning using modernBERT](https://arxiv.org/pdf/2502.03793)
+6. **Framework for Adapting General LLM to Finance Domain** - [Domain-adaptive Post-training for Financial LLMs](https://arxiv.org/pdf/2501.04961)
+7. **Tulu 3** - [Tulu 3: Pushing Frontiers in Open Language Model Post-Training](https://arxiv.org/abs/2411.15124)
+8. **How Useful is CPT** - [How Useful is Continued Pre-Training](https://aclanthology.org/2024.repl4nlp-1.9.pdf)
+9. **CPT of LLMs** - [Continual Pre-Training of Large Language Models](https://arxiv.org/pdf/2308.04014)
+10. **Instruct-SkillMix** - [Pipeline for LLM Instruction Tuning](https://arxiv.org/pdf/2408.14774)
 
 ### Other Resources
 
