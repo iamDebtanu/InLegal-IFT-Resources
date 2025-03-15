@@ -6,7 +6,7 @@ This repository contains the resources for building an instruction fine-tuned la
 
 ### Research Papers
 
-1. **LawInstruct** - [LawInstruct dataset](https://arxiv.org/pdf/2404.02127)
+1. **LawInstruct** - [LawInstruct paper and FLawN-T5](https://arxiv.org/pdf/2404.02127)
 2. **IFT in BERT** - [Instruction Fine-Tuning using modernBERT](https://arxiv.org/pdf/2502.03793)
 3. **Framework for Adapting General LLM to Finance Domain** - [Domain-adaptive Post-training for Financial LLMs](https://arxiv.org/pdf/2501.04961)
 4. **Tulu 3** - [Tulu 3: Pushing Frontiers in Open Language Model Post-Training](https://arxiv.org/abs/2411.15124)
