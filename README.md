@@ -11,9 +11,9 @@ This repository contains the resources for building an instruction fine-tuned la
 
 #### Summarization
 ##### Monolingual Summarization (English-to-English)
-1. [**IN-Abs**](https://aclanthology.org/2022.aacl-main.77/) - Dataset: [IN-Abs](https://zenodo.org/records/7152317#.Yz6mJ9JByC0) - Language(s): English
+1. [**Legal Case Document Summarization: Extractive and Abstractive Methods and their Evaluation**](https://aclanthology.org/2022.aacl-main.77/) - Dataset: [IN-Abs](https://zenodo.org/records/7152317#.Yz6mJ9JByC0) - Language(s): English
 ##### Cross-lingual Summarization (English-to-Hindi)
-1. [**MILDSum**](https://aclanthology.org/2023.emnlp-main.321/) - Dataset: [MILDSum](https://github.com/Law-AI/MILDSum/tree/main) - Language(s): English, Hindi
+1. [**MILDSum: A Novel Benchmark Dataset for Multilingual Summarization of Indian Legal Case Judgments**](https://aclanthology.org/2023.emnlp-main.321/) - Dataset: [MILDSum](https://github.com/Law-AI/MILDSum/tree/main) - Language(s): English, Hindi
 
 #### Semantic Segmentation (Rhetorical Role Labeling)
 1. [**Identification of Rhetorical Roles of Sentences in Indian Legal Judgments**](https://arxiv.org/pdf/1911.05405) - Dataset: [Link](https://github.com/Law-AI/semantic-segmentation/tree/master) - Language(s): English
