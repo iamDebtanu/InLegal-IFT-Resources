@@ -7,7 +7,7 @@ This repository contains the resources for building an instruction fine-tuned la
 ### Legal Domain-specific Tasks
 
 #### Evaluation Benchmark
-1. [**IL-TUR**](https://aclanthology.org/2024.acl-long.618/) - Dataset: [IL-TUR](https://huggingface.co/datasets/Exploration-Lab/IL-TUR) - Language: English
+1. [**IL-TUR**](https://aclanthology.org/2024.acl-long.618/) - Dataset: [IL-TUR](https://huggingface.co/datasets/Exploration-Lab/IL-TUR) - Language(s): English
 
 ### Research Papers
 
