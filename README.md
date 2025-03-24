@@ -9,34 +9,34 @@ This repository contains the resources for building an instruction fine-tuned la
 #### Evaluation Benchmark
 1. [**IL-TUR**](https://aclanthology.org/2024.acl-long.618/) - Dataset: [IL-TUR](https://huggingface.co/datasets/Exploration-Lab/IL-TUR) - Language(s): English
 
-#### Summarization
+#### Task 1: Summarization
 ##### Monolingual Summarization (English-to-English)
 1. [**Legal Case Document Summarization: Extractive and Abstractive Methods and their Evaluation**](https://aclanthology.org/2022.aacl-main.77/) - Dataset: [IN-Abs](https://zenodo.org/records/7152317#.Yz6mJ9JByC0) - Language(s): English
 ##### Cross-lingual Summarization (English-to-Hindi)
 1. [**MILDSum: A Novel Benchmark Dataset for Multilingual Summarization of Indian Legal Case Judgments**](https://aclanthology.org/2023.emnlp-main.321/) - Dataset: [MILDSum](https://github.com/Law-AI/MILDSum/tree/main) - Language(s): English, Hindi
 
-#### Semantic Segmentation (Rhetorical Role Labeling)
+#### Task 2: Semantic Segmentation (Rhetorical Role Labeling)
 1. [**Identification of Rhetorical Roles of Sentences in Indian Legal Judgments**](https://arxiv.org/pdf/1911.05405) - Dataset: [Link](https://github.com/Law-AI/semantic-segmentation/tree/master) - Language(s): English
 2. [**Semantic Segmentation of Legal Documents via Rhetorical Roles**](https://aclanthology.org/2022.nllp-1.13/) - Dataset: [Link](https://github.com/Exploration-Lab/Rhetorical-Roles) - Language(s): English
 3. [**LegalSeg: Unlocking the Structure of Indian Legal Judgments Through Rhetorical Role Classification**](https://arxiv.org/abs/2502.05836) - Dataset: [LegalSeg](https://github.com/ShubhamKumarNigam/LegalSeg) - Language(s): English 
 
 
-#### Court Judgment Prediction and Explanation 
+#### Task 3: Court Judgment Prediction and Explanation 
 
 
-#### Bail Prediction
+#### Task 4: Bail Prediction
 
 
-#### Legal Statute Identification
+#### Task 5: Legal Statute Identification
 
 
-#### Prior Case Retrieval
+#### Task 6: Prior Case Retrieval
 
 
-#### Legal Named Entity Recognition
+#### Task 7: Legal Named Entity Recognition
 
 
-#### Legal Text Translation 
+#### Task 8: Legal Text Translation 
 
 
 ### Research Papers
