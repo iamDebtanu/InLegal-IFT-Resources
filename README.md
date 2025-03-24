@@ -18,7 +18,26 @@ This repository contains the resources for building an instruction fine-tuned la
 #### Semantic Segmentation (Rhetorical Role Labeling)
 1. [**Identification of Rhetorical Roles of Sentences in Indian Legal Judgments**](https://arxiv.org/pdf/1911.05405) - Dataset: [Link](https://github.com/Law-AI/semantic-segmentation/tree/master) - Language(s): English
 2. [**Semantic Segmentation of Legal Documents via Rhetorical Roles**](https://aclanthology.org/2022.nllp-1.13/) - Dataset: [Link](https://github.com/Exploration-Lab/Rhetorical-Roles) - Language(s): English
-3. [**LegalSeg: Unlocking the Structure of Indian Legal Judgments Through Rhetorical Role Classification**](https://arxiv.org/abs/2502.05836) - Dataset: [LegalSeg](https://github.com/ShubhamKumarNigam/LegalSeg) - Language(s): English
+3. [**LegalSeg: Unlocking the Structure of Indian Legal Judgments Through Rhetorical Role Classification**](https://arxiv.org/abs/2502.05836) - Dataset: [LegalSeg](https://github.com/ShubhamKumarNigam/LegalSeg) - Language(s): English 
+
+
+#### Court Judgment Prediction and Explanation 
+
+
+#### Bail Prediction
+
+
+#### Legal Statute Identification
+
+
+#### Prior Case Retrieval
+
+
+#### Legal Named Entity Recognition
+
+
+#### Legal Text Translation 
+
 
 ### Research Papers
 
