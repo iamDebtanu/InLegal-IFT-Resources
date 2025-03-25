@@ -31,9 +31,11 @@ This repository contains the resources for building an instruction fine-tuned la
 
 #### Task 5: Legal Statute Identification
 1. [**LLMs – the Good, the Bad or the Indispensable?: A Use Case on Legal Statute Prediction and Legal Judgment Prediction on Indian Court Cases**](https://aclanthology.org/2023.findings-emnlp.831.pdf) - Dataset: [Link](https://github.com/somsubhra04/LLM_Legal_Prompt_Generation/)
+2. [**Automatic Charge Identification from Facts: A Few Sentence-Level Charge Annotations is All You Need**](https://aclanthology.org/2020.coling-main.88.pdf) - Dataset: [Link](https://github.com/Law-AI/automatic-charge-identification/)
+3. [**Overview of the FIRE 2019 AILA Track: Artificial Intelligence for Legal Assistance**](https://ceur-ws.org/Vol-2517/T1-1.pdf) - Dataset: [Link](https://github.com/Law-AI/aila-2019-dataset)
 
 #### Task 6: Prior Case Retrieval
-
+1. [**Overview of the FIRE 2019 AILA Track: Artificial Intelligence for Legal Assistance**](https://ceur-ws.org/Vol-2517/T1-1.pdf) - Dataset: [Link](https://github.com/Law-AI/aila-2019-dataset)
 
 #### Task 7: Legal Named Entity Recognition
 
