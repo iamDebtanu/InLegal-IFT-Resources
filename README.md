@@ -22,13 +22,15 @@ This repository contains the resources for building an instruction fine-tuned la
 
 
 #### Task 3: Court Judgment Prediction and Explanation 
-
+1. [**NYAYAANUMANA and INLEGALLLAMA: The Largest Indian Legal Judgment Prediction Dataset and Specialized Language Model for Enhanced Decision Analysis**](https://aclanthology.org/2025.coling-main.738.pdf) - Dataset: [Link](https://github.com/ShubhamKumarNigam/NyayaAnumana-and-INLegalLlama)
+2. [**Legal Judgment Reimagined: PredEx and the Rise of Intelligent AI Interpretation in Indian Courts**](https://aclanthology.org/2024.findings-acl.255.pdf) - Dataset: [Link](https://github.com/ShubhamKumarNigam/PredEx)
+3. [**LLMs – the Good, the Bad or the Indispensable?: A Use Case on Legal Statute Prediction and Legal Judgment Prediction on Indian Court Cases**](https://aclanthology.org/2023.findings-emnlp.831.pdf) - Dataset: [Link](https://github.com/somsubhra04/LLM_Legal_Prompt_Generation/)
 
 #### Task 4: Bail Prediction
 
 
 #### Task 5: Legal Statute Identification
-
+1. [**LLMs – the Good, the Bad or the Indispensable?: A Use Case on Legal Statute Prediction and Legal Judgment Prediction on Indian Court Cases**](https://aclanthology.org/2023.findings-emnlp.831.pdf) - Dataset: [Link](https://github.com/somsubhra04/LLM_Legal_Prompt_Generation/)
 
 #### Task 6: Prior Case Retrieval
 
