@@ -41,8 +41,8 @@ This repository contains the resources for building an instruction fine-tuned la
 #### Task 7: Legal Named Entity Recognition
 1. [**Named Entity Recognition in Indian court judgments**](https://aclanthology.org/2022.nllp-1.15.pdf) - Dataset: [Link](https://github.com/Legal-NLP-EkStep/legal_NER)
 
-
 #### Task 8: Legal Text Translation 
+1. [**MILPaC: A Novel Benchmark for Evaluating Translation of Legal Text to Indian Languages**](https://arxiv.org/pdf/2310.09765) - Dataset: [MILPaC](https://github.com/Law-AI/MILPaC)
 
 
 ### Research Papers
