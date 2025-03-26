@@ -36,8 +36,10 @@ This repository contains the resources for building an instruction fine-tuned la
 
 #### Task 6: Prior Case Retrieval
 1. [**Overview of the FIRE 2019 AILA Track: Artificial Intelligence for Legal Assistance**](https://ceur-ws.org/Vol-2517/T1-1.pdf) - Dataset: [Link](https://github.com/Law-AI/aila-2019-dataset)
+2. [**Overview of the FIRE 2017 IRLeD Track: Information Retrieval from Legal Documents**](https://ceur-ws.org/Vol-2036/T3-1.pdf) - Dataset: [Link](https://sites.google.com/view/fire2017irled/track-description)
 
 #### Task 7: Legal Named Entity Recognition
+1. [**Named Entity Recognition in Indian court judgments**](https://aclanthology.org/2022.nllp-1.15.pdf) - Dataset: [Link](https://github.com/Legal-NLP-EkStep/legal_NER)
 
 
 #### Task 8: Legal Text Translation 
