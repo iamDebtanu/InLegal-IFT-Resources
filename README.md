@@ -7,7 +7,7 @@ This repository contains the resources for building an instruction fine-tuned la
 ### Legal Domain-specific Tasks
 
 #### Evaluation Benchmark
-1. [**IL-TUR**](https://aclanthology.org/2024.acl-long.618/) - Dataset: [IL-TUR](https://huggingface.co/datasets/Exploration-Lab/IL-TUR) - Language(s): English
+1. [**IL-TUR: Benchmark for Indian Legal Text Understanding and Reasoning**](https://aclanthology.org/2024.acl-long.618/) - Dataset: [IL-TUR](https://huggingface.co/datasets/Exploration-Lab/IL-TUR) - Language(s): English
 
 #### Task 1: Summarization
 ##### Monolingual Summarization (English-to-English)
