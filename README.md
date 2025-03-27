@@ -23,23 +23,23 @@ This repository contains the resources for building an instruction fine-tuned la
 
 #### Task 3: Court Judgment Prediction and Explanation 
 1. [**NYAYAANUMANA and INLEGALLLAMA: The Largest Indian Legal Judgment Prediction Dataset and Specialized Language Model for Enhanced Decision Analysis**](https://aclanthology.org/2025.coling-main.738.pdf) - Dataset: [Link](https://github.com/ShubhamKumarNigam/NyayaAnumana-and-INLegalLlama)
-2. [**Legal Judgment Reimagined: PredEx and the Rise of Intelligent AI Interpretation in Indian Courts**](https://aclanthology.org/2024.findings-acl.255.pdf) - Dataset: [Link](https://github.com/ShubhamKumarNigam/PredEx)
-3. [**LLMs – the Good, the Bad or the Indispensable?: A Use Case on Legal Statute Prediction and Legal Judgment Prediction on Indian Court Cases**](https://aclanthology.org/2023.findings-emnlp.831.pdf) - Dataset: [Link](https://github.com/somsubhra04/LLM_Legal_Prompt_Generation/)
+2. [**Legal Judgment Reimagined: PredEx and the Rise of Intelligent AI Interpretation in Indian Courts**](https://aclanthology.org/2024.findings-acl.255.pdf) - Dataset: [Link](https://github.com/ShubhamKumarNigam/PredEx) - Language(s): English
+3. [**LLMs – the Good, the Bad or the Indispensable?: A Use Case on Legal Statute Prediction and Legal Judgment Prediction on Indian Court Cases**](https://aclanthology.org/2023.findings-emnlp.831.pdf) - Dataset: [Link](https://github.com/somsubhra04/LLM_Legal_Prompt_Generation/) - Language(s): English
 
 #### Task 4: Bail Prediction
 
 
 #### Task 5: Legal Statute Identification
-1. [**LLMs – the Good, the Bad or the Indispensable?: A Use Case on Legal Statute Prediction and Legal Judgment Prediction on Indian Court Cases**](https://aclanthology.org/2023.findings-emnlp.831.pdf) - Dataset: [Link](https://github.com/somsubhra04/LLM_Legal_Prompt_Generation/)
-2. [**Automatic Charge Identification from Facts: A Few Sentence-Level Charge Annotations is All You Need**](https://aclanthology.org/2020.coling-main.88.pdf) - Dataset: [Link](https://github.com/Law-AI/automatic-charge-identification/)
-3. [**Overview of the FIRE 2019 AILA Track: Artificial Intelligence for Legal Assistance**](https://ceur-ws.org/Vol-2517/T1-1.pdf) - Dataset: [Link](https://github.com/Law-AI/aila-2019-dataset)
+1. [**LLMs – the Good, the Bad or the Indispensable?: A Use Case on Legal Statute Prediction and Legal Judgment Prediction on Indian Court Cases**](https://aclanthology.org/2023.findings-emnlp.831.pdf) - Dataset: [Link](https://github.com/somsubhra04/LLM_Legal_Prompt_Generation/) - Language(s): English
+2. [**Automatic Charge Identification from Facts: A Few Sentence-Level Charge Annotations is All You Need**](https://aclanthology.org/2020.coling-main.88.pdf) - Dataset: [Link](https://github.com/Law-AI/automatic-charge-identification/) - Language(s): English
+3. [**Overview of the FIRE 2019 AILA Track: Artificial Intelligence for Legal Assistance**](https://ceur-ws.org/Vol-2517/T1-1.pdf) - Dataset: [Link](https://github.com/Law-AI/aila-2019-dataset) - Language(s): English
 
 #### Task 6: Prior Case Retrieval
-1. [**Overview of the FIRE 2019 AILA Track: Artificial Intelligence for Legal Assistance**](https://ceur-ws.org/Vol-2517/T1-1.pdf) - Dataset: [Link](https://github.com/Law-AI/aila-2019-dataset)
-2. [**Overview of the FIRE 2017 IRLeD Track: Information Retrieval from Legal Documents**](https://ceur-ws.org/Vol-2036/T3-1.pdf) - Dataset: [Link](https://sites.google.com/view/fire2017irled/track-description)
+1. [**Overview of the FIRE 2019 AILA Track: Artificial Intelligence for Legal Assistance**](https://ceur-ws.org/Vol-2517/T1-1.pdf) - Dataset: [Link](https://github.com/Law-AI/aila-2019-dataset) - Language(s): English
+2. [**Overview of the FIRE 2017 IRLeD Track: Information Retrieval from Legal Documents**](https://ceur-ws.org/Vol-2036/T3-1.pdf) - Dataset: [Link](https://sites.google.com/view/fire2017irled/track-description) - Language(s): English
 
 #### Task 7: Legal Named Entity Recognition
-1. [**Named Entity Recognition in Indian court judgments**](https://aclanthology.org/2022.nllp-1.15.pdf) - Dataset: [Link](https://github.com/Legal-NLP-EkStep/legal_NER)
+1. [**Named Entity Recognition in Indian court judgments**](https://aclanthology.org/2022.nllp-1.15.pdf) - Dataset: [Link](https://github.com/Legal-NLP-EkStep/legal_NER) - Language(s): English
 
 #### Task 8: Legal Text Translation 
 1. [**MILPaC: A Novel Benchmark for Evaluating Translation of Legal Text to Indian Languages**](https://arxiv.org/pdf/2310.09765) - Dataset: [MILPaC](https://github.com/Law-AI/MILPaC)
